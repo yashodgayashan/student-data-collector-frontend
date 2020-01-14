@@ -1,0 +1,7 @@
+.body {
+  position: fixed;
+  top: 50px;
+  color: black;
+  max-height: calc(100vh - 50px);
+  overflow-y: auto;
+}
