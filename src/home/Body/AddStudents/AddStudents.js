@@ -57,7 +57,7 @@ const AddStudents = () => {
       <div>
         <button
           type="button"
-          class="btn btn-primary basics"
+          className="btn btn-primary basics"
           onClick={handleOpen}
         >
           Add students
